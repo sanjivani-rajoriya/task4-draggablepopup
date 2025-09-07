@@ -1,10 +1,10 @@
-# 🪟 Next.js Floating Popup
+## Next.js Floating Popup
 
 A simple **floating popup with minimize/restore functionality** built using **Next.js (App Router), React, Tailwind CSS, and TypeScript**.
 
 ---
 
-## 🚀 Features
+## Features
 - Floating popup component with:
   - Minimize and restore functionality
   - Draggable window (optional extension)
@@ -15,27 +15,11 @@ A simple **floating popup with minimize/restore functionality** built using **Ne
 
 ---
 
-## 📂 Project Structure
-nextjs-floating-popup/
-├── src/
-│ ├── app/
-│ │ ├── globals.css # Tailwind global styles
-│ │ ├── layout.tsx # Root layout
-│ │ └── page.tsx # Home page rendering popup
-│ └── components/
-│ └── FloatingPopup.tsx # Popup component
-├── postcss.config.js
-├── tailwind.config.js
-├── tsconfig.json
-├── package.json
-└── README.md
-
----
-
-## ⚙️ Installation & Setup
+# Installation & Setup
 
 ## Clone the repository
 git clone https://github.com/your-username/nextjs-floating-popup.git
+
 cd nextjs-floating-popup
 
 ---
